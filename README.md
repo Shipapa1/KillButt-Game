@@ -2,6 +2,7 @@
 # KillButt - A Rogue-like Top-Down Shooter
 
 ## Project Information
+# Kept Code Private As It Is A Deployed Game
 
 **Course:** CS 170N - Team 7 Final Project  
 **Team Members:**  
